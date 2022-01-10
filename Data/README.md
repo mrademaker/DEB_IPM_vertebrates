@@ -1,5 +1,5 @@
 - [Life history table](LIFE_HISTORY_TABLE.xlsx) - An Excel database consisting of six sheets describing the life history traits of the model study species.<br>
-  -- [Sheet 1: Species overview](LIFE_HISTORY_TABLE.xlsx) - A description of the 34 model species including categorical reproductive strategy variables from McBride et al. (2013), used for GAMM analysis. ,br>
+  -- [Sheet 1: Species overview](LIFE_HISTORY_TABLE.xlsx) - A description of the 34 model species including categorical reproductive strategy variables from McBride et al. (2013), used for GAMM analysis. <br>
   -- [Sheet 2: Larvae and eggs and fecundity](LIFE_HISTORY_TABLE.xlsx) - Size and mortality data for the larval phase of the model study species, including computations to estimate model parameter phi (survival of egg and larval phase), Lb, and sigma Lb. <br>
   -- [Sheet 3: Growth](LIFE_HISTORY_TABLE.xlsx) - Growth related model parameters k, rB, Lp, and Lm. <br>
   -- [Sheet 4: Mortality](LIFE_HISTORY_TABLE.xlsx) - Estimates for instantaneous mortality parameter Mup. <br>
