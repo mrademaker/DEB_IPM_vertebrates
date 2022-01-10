@@ -1,3 +1,3 @@
 - [Life history table](LIFE_HISTORY_TABLE.xlsx) - An Excel database consisting of six sheets.
 - <br>
-- [Sheet 1: Species overview](Species overview) - 
+- [Sheet 1: Species overview](LIFE_HISTORY_TABLE.xlsx) - 
