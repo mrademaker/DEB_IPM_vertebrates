@@ -1,7 +1,7 @@
 - [Life history table](LIFE_HISTORY_TABLE.xlsx) - An Excel database consisting of six sheets.<br>
-  -- [Sheet 1: Species overview](LIFE_HISTORY_TABLE.xlsx) -
-  -- [Sheet 2: Larvae and eggs and fecundity](LIFE_HISTORY_TABLE.xlsx) -
-  -- [Sheet 3: Growth](LIFE_HISTORY_TABLE.xlsx) -
-  -- [Sheet 4: Mortality](LIFE_HISTORY_TABLE.xlsx) -
-  -- [Sheet 5: DEB-IPM parameters](LIFE_HISTORY_TABLE.xlsx) -
-  -- [Sheet 6: References](LIFE_HISTORY_TABLE.xlsx) -
+  -- [Sheet 1: Species overview](LIFE_HISTORY_TABLE.xlsx) - <br>
+  -- [Sheet 2: Larvae and eggs and fecundity](LIFE_HISTORY_TABLE.xlsx) - <br>
+  -- [Sheet 3: Growth](LIFE_HISTORY_TABLE.xlsx) - <br>
+  -- [Sheet 4: Mortality](LIFE_HISTORY_TABLE.xlsx) - <br>
+  -- [Sheet 5: DEB-IPM parameters](LIFE_HISTORY_TABLE.xlsx) - <br>
+  -- [Sheet 6: References](LIFE_HISTORY_TABLE.xlsx) - <br>
