@@ -1,4 +1,4 @@
-- [Life history table](LIFE_HISTORY_TABLE.xlsx) - An Excel database consisting of six sheets.<br>
+- [Life history table](LIFE_HISTORY_TABLE.xlsx) - An Excel database consisting of six sheets describing the life history traits of the model study species.<br>
   -- [Sheet 1: Species overview](LIFE_HISTORY_TABLE.xlsx) - <br>
   -- [Sheet 2: Larvae and eggs and fecundity](LIFE_HISTORY_TABLE.xlsx) - <br>
   -- [Sheet 3: Growth](LIFE_HISTORY_TABLE.xlsx) - <br>
