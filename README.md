@@ -11,5 +11,6 @@ The repository consists of:
 - [Script](Script) <br>
   -- The R-code used for Phylogenetic PCA analysis. <br>
   -- The R-code used for additive modelling of the relationship between population growth rate and reproductive strategy variables.<br>
+  -- The R-code used for modelling the relationship between sensitivity and (non)linear correlation metrics.<br>
 <br>
  
