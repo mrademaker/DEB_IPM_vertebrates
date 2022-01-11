@@ -10,6 +10,6 @@ The repository consists of:
  -- Dataset to analyse relationship between sensitivity and life history traits based on set of (non)linear [correlation metrics](Data/varrank_table_Table_1.csv).<br>
 - [Script](Script) <br>
   -- The R-code used for additive modelling of the relationship between population growth rate and [reproductive strategy variables](Script/GAM_strategy.R).<br>
-  -- The R-code used for modelling the relationship between sensitivity and (non)[linear correlation metrics](Script/sensitivity_trait_relations).<br>
+  -- The R-code used for modelling the relationship between sensitivity and (non)linear [correlation metrics](Script/sensitivity_trait_relations).<br>
 <br>
  
