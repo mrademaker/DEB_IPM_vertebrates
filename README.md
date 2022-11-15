@@ -5,7 +5,7 @@ This repository will contain the supplementary information accompanying the manu
 The repository consists of:
 
 - [Data](Data) <br>
- -- Dataset with species traits used in DEB-IPM (also in manuscript table).
+ -- Dataset with species traits used in DEB-IPM (also in manuscript table).<br>
  -- Dataset to analyse relationship between sensitivity and life history traits based on set of (non)linear correlation metrics.<br>
 - [Script](Script) <br>
   -- The R-code used for performing phylogenetically informed PCA analysis.<br>
